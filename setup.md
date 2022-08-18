@@ -482,7 +482,7 @@ sudo docker run hello-world
 
 The following message should print:
 
-![](images/docker.png)
+![](images/Screenshot.png)
 
 ```bash
 sudo service docker stop
